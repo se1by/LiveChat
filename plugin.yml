@@ -1,0 +1,15 @@
+name:  LiveChat
+version:  0.1
+description:  LiveChat!
+author:  se1by
+website:  http://www.live-craft.net
+
+main:  me.se1by.LiveChat.LiveChat
+
+permissions:
+    LiveChat.*:
+        description: All permissions
+        default: false
+    LiveChat.Miner:
+        description: Miner
+        default: false
